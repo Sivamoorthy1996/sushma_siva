@@ -16,7 +16,7 @@ public class parctice1Test {
 		System.out.println("url-->"+URL);
 		System.out.println("username-->"+USERNAME);
 		System.out.println("password-->"+PASSWORD);
-		//hi my name is siva and we siva_sushma are buddies  hi
+		//hi my name is siva and we siva_sushma are buddies  hi buddy
 	
 	}
 	@Test
